@@ -5,7 +5,7 @@
 <p align="center">Aspiring Web Developer</p>
 
 ## 💻 Technologies:
-<div align="center">
+<div style="display: inline-block; text-align:center;">
   <img alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
